@@ -1,0 +1,29 @@
+{
+  "name": "stringywingy",
+  "version": "1.0.0",
+  "description": "Check if a sentence or a word is an anagram or a palindrome",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~1.21.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikaelbr/stringywingy.git"
+  },
+  "keywords": [
+    "anagram",
+    "palindrome",
+    "stringywingy",
+    "strings"
+  ],
+  "author": "Mikael Brevik <mikaelbre@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikaelbr/stringywingy/issues"
+  },
+  "homepage": "https://github.com/mikaelbr/stringywingy"
+}
